@@ -1,0 +1,6 @@
+title: "ChargeBench"
+description: "ChargeBench is a collection of breakout boards and breadboard accessories to charge the Synth DIY projects on your workbench."
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+show_downloads: false
