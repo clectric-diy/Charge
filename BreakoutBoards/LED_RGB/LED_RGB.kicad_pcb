@@ -71,7 +71,6 @@
 			(dielectric_constraints no)
 		)
 		(pad_to_mask_clearance 0)
-		(solder_mask_min_width 0.12)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
 		(pcbplotparams
@@ -2923,8 +2922,8 @@
 			(justify right bottom)
 		)
 	)
-	(gr_text "ChargeForge\nLED_RGB Mk0.1"
-		(at 97.78541 94.488704 0)
+	(gr_text "ChargeForge\nLED_RGB Mk 0.1"
+		(at 97.85 94.476 0)
 		(layer "B.SilkS")
 		(uuid "358f51a4-3f98-47c8-a63c-ed9d2e2309b6")
 		(effects
@@ -2937,7 +2936,7 @@
 		)
 	)
 	(gr_text "Copyright © 2026 clectric.diy\nLicensed under CERN-OHL-W v2"
-		(at 97.88541 96.188704 0)
+		(at 97.88 95.91 0)
 		(layer "B.SilkS")
 		(uuid "e1ed89e3-fe65-4b03-95e3-340089a7f664")
 		(effects
