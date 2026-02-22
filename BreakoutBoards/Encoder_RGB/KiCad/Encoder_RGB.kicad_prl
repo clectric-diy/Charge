@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Potentiometer_RGB.kicad_prl",
+    "filename": "Encoder_RGB.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -97,7 +97,7 @@
       103,
       74,
       103,
-      366
+      0
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

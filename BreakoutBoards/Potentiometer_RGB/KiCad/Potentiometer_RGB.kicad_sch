@@ -340,325 +340,10 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "clectric-diy:E6C1206RGBC3UDA"
-			(pin_numbers
+		(symbol "clectric-diy:RK09K1130A8G"
+			(pin_names
 				(hide yes)
 			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "IC"
-				(at 21.59 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "E6C1206RGBC3UDA"
-				(at 21.59 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "E6C1206RGBC3UDA"
-				(at 21.59 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/1912111437_EKINGLUX-E6C1206RGBC3UDA_C375571.pdf"
-				(at 21.59 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "E6C1206RGBC3UDA"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "1.1"
-				(at 21.59 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "EKINGLUX"
-				(at 21.59 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "E6C1206RGBC3UDA"
-				(at 21.59 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" ""
-				(at 21.59 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" ""
-				(at 21.59 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" ""
-				(at 21.59 -894.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" ""
-				(at 21.59 -994.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "E6C1206RGBC3UDA_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 20.32 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "K_G"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "K_R"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 0 180)
-					(length 5.08)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 -2.54 180)
-					(length 5.08)
-					(name "K_B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "clectric-diy:FRC0603F1001TS"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "FRC0603F1001TS"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "clectric-diy:R0603"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC Part" "C2907002"
-				(at 0 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "FRC0603F1001TS_0_1"
-				(rectangle
-					(start -2.54 1.27)
-					(end 2.54 -1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin unspecified line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "clectric-diy:RK09K1130A8G"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -882,7 +567,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 111.76) (xy 106.68 111.76)
+			(xy 115.57 111.76) (xy 118.11 111.76)
 		)
 		(stroke
 			(width 0)
@@ -892,7 +577,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 109.22) (xy 106.68 109.22)
+			(xy 115.57 109.22) (xy 118.11 109.22)
 		)
 		(stroke
 			(width 0)
@@ -902,7 +587,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 104.14) (xy 106.68 104.14)
+			(xy 115.57 104.14) (xy 118.11 104.14)
 		)
 		(stroke
 			(width 0)
@@ -912,7 +597,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 114.3) (xy 106.68 114.3)
+			(xy 115.57 114.3) (xy 118.11 114.3)
 		)
 		(stroke
 			(width 0)
@@ -922,107 +607,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 85.09) (xy 130.81 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53b27074-40c9-484b-b881-4893d484efa5")
-	)
-	(wire
-		(pts
-			(xy 110.49 87.63) (xy 110.49 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "58796639-0d1c-4624-ba93-01c94e4f5dac")
-	)
-	(wire
-		(pts
-			(xy 76.2 82.55) (xy 76.2 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b1d0aa8-6fc4-4d56-88b9-a8c94a1dbb1a")
-	)
-	(wire
-		(pts
-			(xy 62.23 90.17) (xy 64.77 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7679b0fa-ae91-4a3a-9536-c3537e8c5717")
-	)
-	(wire
-		(pts
-			(xy 74.93 82.55) (xy 76.2 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c45b0c2-b62a-4665-a7ad-d30c3b330f55")
-	)
-	(wire
-		(pts
-			(xy 110.49 85.09) (xy 118.11 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a85896d3-ae9d-4264-a4a9-86019d481a3f")
-	)
-	(wire
-		(pts
-			(xy 62.23 82.55) (xy 64.77 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bda49092-9453-4a04-a4c2-1171b504b8a0")
-	)
-	(wire
-		(pts
-			(xy 110.49 90.17) (xy 130.81 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c043aad7-e4d7-46a7-97bb-be54d18339b7")
-	)
-	(wire
-		(pts
-			(xy 76.2 87.63) (xy 85.09 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c618cd17-75be-4ec9-99e0-9db0797b2d73")
-	)
-	(wire
-		(pts
-			(xy 76.2 90.17) (xy 76.2 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9229a55-35e1-4c19-8d70-f6e16252aa88")
-	)
-	(wire
-		(pts
-			(xy 104.14 106.68) (xy 106.68 106.68)
+			(xy 115.57 106.68) (xy 118.11 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1032,17 +617,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 90.17) (xy 76.2 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "de3949ee-2cb6-439b-a7f2-4f72147c7da3")
-	)
-	(wire
-		(pts
-			(xy 104.14 116.84) (xy 106.68 116.84)
+			(xy 115.57 116.84) (xy 118.11 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1050,49 +625,9 @@
 		)
 		(uuid "de68b35a-cd41-40fc-8e4a-c1f90241f4e4")
 	)
-	(wire
-		(pts
-			(xy 76.2 85.09) (xy 85.09 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ead39028-1f5e-408c-bf88-e952b0543cd1")
-	)
-	(label "LED_GREEN"
-		(at 85.09 87.63 180)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify right bottom)
-		)
-		(uuid "a1be268c-4b73-41ca-98db-6407b7b84c5e")
-	)
-	(label "LED_BLUE"
-		(at 110.49 85.09 0)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify left bottom)
-		)
-		(uuid "cd712feb-9c4b-4c80-9c79-3e6465c912eb")
-	)
-	(label "LED_RED"
-		(at 85.09 85.09 180)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify right bottom)
-		)
-		(uuid "d0e3f871-b6ab-4cd5-be57-bd76de1cd289")
-	)
 	(global_label "LED_BLUE"
 		(shape input)
-		(at 106.68 109.22 0)
+		(at 118.11 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1102,7 +637,7 @@
 		)
 		(uuid "106c0aab-1ee7-40fd-8544-87e3924625bc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.8575 109.22 0)
+			(at 130.2875 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1114,7 +649,7 @@
 	)
 	(global_label "LED_RED"
 		(shape input)
-		(at 62.23 82.55 180)
+		(at 85.09 85.09 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1124,7 +659,7 @@
 		)
 		(uuid "42623eda-f7dc-491e-b364-45575452fbaf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 48.6616 82.55 0)
+			(at 71.5216 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1136,7 +671,7 @@
 	)
 	(global_label "LED_GREEN"
 		(shape input)
-		(at 62.23 90.17 180)
+		(at 85.09 87.63 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1146,7 +681,7 @@
 		)
 		(uuid "433733fd-be5a-4da5-adc0-57260cb842a5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 51.1411 90.17 0)
+			(at 74.0011 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1158,7 +693,7 @@
 	)
 	(global_label "WIPER"
 		(shape input)
-		(at 69.85 104.14 90)
+		(at 78.74 105.41 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1168,7 +703,7 @@
 		)
 		(uuid "522ecd93-c5f6-4744-afea-959e2ddc53db")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 69.85 95.4096 90)
+			(at 87.4704 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1180,7 +715,7 @@
 	)
 	(global_label "GND+CCW"
 		(shape input)
-		(at 106.68 111.76 0)
+		(at 118.11 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1190,7 +725,7 @@
 		)
 		(uuid "6d2aae77-5b2d-4c3d-b760-d24337519dc5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.0995 111.76 0)
+			(at 130.5295 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1202,7 +737,7 @@
 	)
 	(global_label "LED_BLUE"
 		(shape input)
-		(at 130.81 85.09 0)
+		(at 110.49 85.09 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1212,7 +747,7 @@
 		)
 		(uuid "75eab6c5-6459-46ac-ad2b-5013187b62b7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 142.9875 85.09 0)
+			(at 122.6675 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1224,7 +759,7 @@
 	)
 	(global_label "GND+CCW"
 		(shape input)
-		(at 80.01 109.22 0)
+		(at 88.9 110.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1234,7 +769,7 @@
 		)
 		(uuid "8955b0b2-ef81-4de1-8575-db53a70d1e09")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.4295 109.22 0)
+			(at 101.3195 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1246,7 +781,7 @@
 	)
 	(global_label "WIPER"
 		(shape input)
-		(at 106.68 114.3 0)
+		(at 118.11 114.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1256,7 +791,7 @@
 		)
 		(uuid "9117fc64-5ad1-4e5b-a253-21266bf35931")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 115.4104 114.3 0)
+			(at 126.8404 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1268,7 +803,7 @@
 	)
 	(global_label "LED_GREEN"
 		(shape input)
-		(at 106.68 106.68 0)
+		(at 118.11 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1278,7 +813,7 @@
 		)
 		(uuid "a7ff695f-eb12-453a-926a-27bd5f4def8a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.2484 106.68 0)
+			(at 131.6784 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1290,7 +825,7 @@
 	)
 	(global_label "GND+CCW"
 		(shape input)
-		(at 59.69 111.76 180)
+		(at 68.58 113.03 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1300,7 +835,7 @@
 		)
 		(uuid "b29ce671-0147-4b4b-9658-028ce23d30f0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.2705 111.76 0)
+			(at 56.1605 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1312,7 +847,7 @@
 	)
 	(global_label "VCC+CW"
 		(shape input)
-		(at 59.69 109.22 180)
+		(at 68.58 110.49 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1322,7 +857,7 @@
 		)
 		(uuid "c5fa7904-787d-46ab-891f-f9f68935108a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 48.7824 109.22 0)
+			(at 57.6724 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1334,7 +869,7 @@
 	)
 	(global_label "VCC+CW"
 		(shape input)
-		(at 106.68 116.84 0)
+		(at 118.11 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1344,7 +879,7 @@
 		)
 		(uuid "cfb318b1-2e6c-4221-8257-5a851689d50d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 117.5876 116.84 0)
+			(at 129.0176 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1356,7 +891,7 @@
 	)
 	(global_label "VCC+CW"
 		(shape input)
-		(at 130.81 90.17 0)
+		(at 110.49 87.63 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1366,7 +901,7 @@
 		)
 		(uuid "d3d84c9a-992d-45f1-ade2-8fa65e754933")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.4238 90.17 0)
+			(at 117.1038 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1378,7 +913,7 @@
 	)
 	(global_label "GND+CCW"
 		(shape input)
-		(at 80.01 111.76 0)
+		(at 88.9 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1388,7 +923,7 @@
 		)
 		(uuid "e604d144-914f-4d88-810c-b6748b58caa3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.4295 111.76 0)
+			(at 101.3195 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1400,7 +935,7 @@
 	)
 	(global_label "LED_RED"
 		(shape input)
-		(at 106.68 104.14 0)
+		(at 118.11 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1410,7 +945,7 @@
 		)
 		(uuid "e9e73433-a51e-480f-b2d4-1b4ebe9007b7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 117.7689 104.14 0)
+			(at 129.1989 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1421,316 +956,16 @@
 		)
 	)
 	(symbol
-		(lib_id "clectric-diy:FRC0603F1001TS")
-		(at 69.85 82.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "034a6345-705f-405a-85d7-19e8436bed05")
-		(property "Reference" "R1"
-			(at 69.85 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "FRC0603F1001TS"
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "clectric-diy:R0603"
-			(at 69.85 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 69.85 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 69.85 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C2907002"
-			(at 69.85 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9fe7bf12-c105-4fd9-b11e-886d438cf3db")
-		)
-		(pin "2"
-			(uuid "892be5b3-8532-4f3e-93b7-bf390a63ff8a")
-		)
-		(instances
-			(project ""
-				(path "/86b7bfb3-ead2-48b6-9db9-95dd9025240e"
-					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "clectric-diy:FRC0603F1001TS")
-		(at 123.19 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5fb6fe18-5fc7-46b6-91b5-b9e12cfc4cb8")
-		(property "Reference" "R3"
-			(at 123.19 82.296 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "FRC0603F1001TS"
-			(at 123.19 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "clectric-diy:R0603"
-			(at 123.19 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 123.19 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 123.19 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C2907002"
-			(at 123.19 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9fe7bf12-c105-4fd9-b11e-886d438cf3dc")
-		)
-		(pin "2"
-			(uuid "892be5b3-8532-4f3e-93b7-bf390a63ff8b")
-		)
-		(instances
-			(project ""
-				(path "/86b7bfb3-ead2-48b6-9db9-95dd9025240e"
-					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "clectric-diy:E6C1206RGBC3UDA")
-		(at 85.09 87.63 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6dcf17d0-2b86-4c8f-b085-f2866f0a9769")
-		(property "Reference" "LED1"
-			(at 97.536 78.232 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "E6C1206RGBC3UDA"
-			(at 97.536 80.772 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "clectric-diy:E6C1206RGBC3UDA"
-			(at 97.79 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/1912111437_EKINGLUX-E6C1206RGBC3UDA_C375571.pdf"
-			(at 106.68 -107.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "E6C1206RGBC3UDA"
-			(at 85.09 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.1"
-			(at 106.68 -307.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "EKINGLUX"
-			(at 106.68 -407.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "E6C1206RGBC3UDA"
-			(at 106.68 -507.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 106.68 -607.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 106.68 -707.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 106.68 -807.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 106.68 -907.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "1c90d555-0f37-4447-a55c-0fa7771683d8")
-		)
-		(pin "2"
-			(uuid "58c2d43a-e36a-4150-beda-c860caee44af")
-		)
-		(pin "4"
-			(uuid "2ed2d3bb-57cd-4282-b828-71bb4214c36b")
-		)
-		(pin "1"
-			(uuid "f38ae44b-1460-413d-8d63-90fc509d1c0e")
-		)
-		(instances
-			(project "LED_RGB"
-				(path "/86b7bfb3-ead2-48b6-9db9-95dd9025240e"
-					(reference "LED1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "clectric-diy:RK09K1130A8G")
-		(at 69.85 109.22 0)
+		(at 78.74 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "81fd36cb-4ab7-4302-b33d-a999593029eb")
 		(property "Reference" "R4"
-			(at 69.85 114.3 0)
+			(at 78.74 99.822 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1738,7 +973,7 @@
 			)
 		)
 		(property "Value" "RK09K1130D62"
-			(at 69.85 116.84 0)
+			(at 78.74 102.362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1746,7 +981,7 @@
 			)
 		)
 		(property "Footprint" "clectric-diy:RES-TH_RK09K113004U"
-			(at 69.85 119.38 0)
+			(at 78.74 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1755,7 +990,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 109.22 0)
+			(at 78.74 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1764,7 +999,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 109.22 0)
+			(at 78.74 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1773,7 +1008,7 @@
 			)
 		)
 		(property "LCSC Part" "C470294"
-			(at 69.85 121.92 0)
+			(at 78.74 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1806,85 +1041,8 @@
 		)
 	)
 	(symbol
-		(lib_id "clectric-diy:FRC0603F1001TS")
-		(at 69.85 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c05e4336-1099-4c56-84af-93b8e23d298b")
-		(property "Reference" "R2"
-			(at 69.85 87.376 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "FRC0603F1001TS"
-			(at 69.85 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "clectric-diy:R0603"
-			(at 69.85 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 69.85 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 69.85 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C2907002"
-			(at 69.85 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9fe7bf12-c105-4fd9-b11e-886d438cf3dd")
-		)
-		(pin "2"
-			(uuid "892be5b3-8532-4f3e-93b7-bf390a63ff8c")
-		)
-		(instances
-			(project ""
-				(path "/86b7bfb3-ead2-48b6-9db9-95dd9025240e"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_01x06_Pin")
-		(at 99.06 109.22 0)
+		(at 110.49 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1892,7 +1050,7 @@
 		(dnp no)
 		(uuid "eb6ac43a-0fec-4e55-9cac-13a43f301558")
 		(property "Reference" "J1"
-			(at 99.695 99.06 0)
+			(at 111.125 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1900,7 +1058,7 @@
 			)
 		)
 		(property "Value" "Conn_01x06_Pin"
-			(at 99.695 101.6 0)
+			(at 111.125 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1908,7 +1066,7 @@
 			)
 		)
 		(property "Footprint" "clectric-diy:HDR-TH_6P-P2.54-V-M-1"
-			(at 99.06 109.22 0)
+			(at 110.49 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1917,7 +1075,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 99.06 109.22 0)
+			(at 110.49 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1926,7 +1084,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated"
-			(at 99.06 109.22 0)
+			(at 110.49 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
