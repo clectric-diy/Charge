@@ -441,7 +441,7 @@
 	)
 	(global_label "WIPER"
 		(shape input)
-		(at 69.85 104.14 90)
+		(at 69.85 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -451,7 +451,7 @@
 		)
 		(uuid "522ecd93-c5f6-4744-afea-959e2ddc53db")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 69.85 95.4096 90)
+			(at 78.5804 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -727,7 +727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "clectric-diy:HDR-TH_3P-P2.54-V-M-1"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 106.68 110.49 0)
 			(effects
 				(font
