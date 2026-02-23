@@ -10,7 +10,7 @@
 	(title_block
 		(title "Charge WS2811")
 		(date "2026-02-20")
-		(rev "Mk 0.1")
+		(rev "Mk1")
 		(company "clectric.diy")
 		(comment 1 "Copyright © 2026 clectric.diy Licensed under CERN-OHL-W v2")
 		(comment 2 "Charles H. Leggett")
@@ -221,17 +221,6 @@
 			(fill no)
 			(layer "F.Fab")
 			(uuid "556463a2-e398-42e7-ac3d-f53c34c07618")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "9976152a-cb69-47c8-9bd8-eb6d6c700170")
-			(effects
-				(font
-					(size 0.5 0.5)
-					(thickness 0.0625)
-				)
-			)
 		)
 		(pad "1" smd roundrect
 			(at -0.48 0 180)
@@ -2200,17 +2189,6 @@
 			(layer "F.Fab")
 			(uuid "333b1ebd-9e01-4616-a911-fc10201b9efe")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "7adcec04-36e9-4a24-aed4-21e5dec18226")
-			(effects
-				(font
-					(size 0.5 0.5)
-					(thickness 0.0625)
-				)
-			)
-		)
 		(pad "1" smd roundrect
 			(at -0.51 0)
 			(size 0.54 0.64)
@@ -2340,17 +2318,6 @@
 			(fill no)
 			(layer "F.Fab")
 			(uuid "fe5deaf8-26d4-4f46-a903-82e6215ff4fb")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
-			(layer "F.Fab")
-			(uuid "46759f92-2c94-4423-bf76-6b3128b6004c")
-			(effects
-				(font
-					(size 0.5 0.5)
-					(thickness 0.0625)
-				)
-			)
 		)
 		(pad "1" smd roundrect
 			(at -0.51 0 270)
@@ -2905,7 +2872,7 @@
 			(justify right bottom)
 		)
 	)
-	(gr_text "Charge\nWS2811\nMk 0.1"
+	(gr_text "Charge\nWS2811\nMk1"
 		(at 95.354 88.210798 0)
 		(layer "F.SilkS")
 		(uuid "28c8483a-eb07-4ec8-bba4-15ae7700cc2f")
