@@ -1,0 +1,19 @@
+This breakout board is available for purchase at [store.clectric.diy](https://store.clectric.diy).
+
+## Design
+Our goal is to create a breakout board that includes the pinout diagram so that you have the reference information that you need to work with the Daisy Seed.
+
+### 2D Render
+![2D perspective render of v0.1 of the breakout board](docs/images/Charge-Seed-Breakout-v0.1-2D.png)
+
+### 3D Render
+![3D perspective render of v0.1 of the breakout board](docs/images/Charge-Seed-Breakout-v0.1-3D.png)
+
+### Caveat
+The PCB fabricator that we use requires the use of their proprietary software to add the images, so while the images are available here, there are extra steps to put them on the board.
+
+## Feedback
+Constructive [feedback](https://github.com/orgs/clectric-diy/discussions/categories/charge-seed-q-a) is welcome!
+
+## License
+This project is open hardware under the [CERN-OHL-S](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/b236492596cfc91c12def7d50bbf7da0/cern_ohl_s_v2.pdf) license.
