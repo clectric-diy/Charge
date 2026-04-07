@@ -4,10 +4,6 @@ These boards and supporting assets are meant to help you prototype quickly, vali
 
 Whether you are learning your first module design or contributing production-ready improvements, this repository is a shared design space for the clectric.diy makerspace community.
 
-## What Is In This Repository?
-
-This repository contains open hardware design files for breakout boards, prototyping boards, and panel assets used in Charge/clectric.diy projects.
-
 ## Repository Map and Scope
 
 - [BreakoutBoards](BreakoutBoards/): breakout boards for common UI and I/O building blocks, plus supporting design assets (KiCad files, BOMs, renders, and silkscreen resources).
