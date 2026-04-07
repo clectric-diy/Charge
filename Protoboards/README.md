@@ -1,13 +1,13 @@
-These protoboards are available for purchase at [store.clectric.diy](https://store.clectric.diy).
+# Protoboards
 
-We have 1U and 2U protoboards, for the [AE Modular format](https://clectric.diy/formats/ae-modular/), ready to go for your next Synth DIY project.
+Protoboard designs for AE modular-compatible DIY builds.
 
-![rendered image of a 1U protoboard for the AE Modular format](images/AE-1U-Protoboard.png)
+## Modules
 
-![rendered image of a 2U protoboard for the AE Modular format](images/AE-2U-Protoboard.png)
+- [AE-1U-Protoboard](AE-1U-Protoboard/): 1U protoboard KiCad project.
+- [AE-2U-Protoboard](AE-2U-Protoboard/): 2U protoboard KiCad project.
+- [images](images/): rendered preview images.
 
-These designs are open hardware under the [CERN-OHL-W](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt).
+## Notes
 
-This is the "weakly reciprocal" variant. You can use this hardware, under the terms of that variant, as a component wihin hardware that you build and sell.
-
-NOTE: These designs have been created to work with the AE Modular format. It is an independent creation and is not affiliated with or endorsed by Tangible Waves. All trademarks are the property of their respective owners and are referenced only to indicate compatibility.
+These designs target AE modular dimensions and are intended as general-purpose PCB prototyping surfaces.
